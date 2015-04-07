@@ -21,4 +21,4 @@ Well your browsing may not be completely ad free becuase I am still conquering a
 - ib.adnxs.com
 - s3.buysellads.com
 
-If you find a site that has ads that aren't yet blocked please create an Issue to tell me.
+If you find a site that has ads that aren't yet blocked please create an Issue to tell me. You can also use a Fork to help me develop Ad-B-Gone.
