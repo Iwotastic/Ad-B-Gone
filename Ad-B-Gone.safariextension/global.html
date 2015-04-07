@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+var adArr = [
+	"pagead2.googlesyndication.com",
+	"partner.googleadservices.com",
+	"ib.adnxs.com",
+	"s3.buysellads.com"
+];
+function check(event) {
+	if (event.name === "canLoad") {
+		var isAd = false;
+		for (ad in adArr) {
+			var adPatt = new RegExp(adArr[ad]);
+			if (adPatt.test(event.message) && !isAd) {
+				isAd = true;
+			}
+		}
+	if (isAd) {
+			event.message = "block";
+		}else{
+			event.message = "allow";
+		}
+	}
+}
+ 
+safari.application.addEventListener("message", check, true);
+</script>
+</head>
+</html>
