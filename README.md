@@ -4,7 +4,7 @@ Ad-B-Gone is an ad blocking program.
 ## Installation
 To install Ad-B-Gone follow these steps:
 
-1. Click on the file titled `Ad-B-Gone.safariextz`
+1. Click on the file titled `Ad-B-Gone (safari).safariextz`
 2. Click `View Raw`
 3. GitHub will then download the extension
 4. Open the file
