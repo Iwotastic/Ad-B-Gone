@@ -20,5 +20,7 @@ Well your browsing may not be completely ad free becuase I am still conquering a
 - partner.googleadservices.com
 - ib.adnxs.com
 - s3.buysellads.com
+- engine.carbonads.com
+- srv.carbonads.net
 
 If you find a site that has ads that aren't yet blocked please create an Issue to tell me. You can also use a Fork to help me develop Ad-B-Gone.
