@@ -1,3 +1,5 @@
+**Notice:** *This repository is no longer maintained and is obsolete.*
+
 # Ad-B-Gone
 Ad-B-Gone is an ad blocking program.
 
